@@ -21,7 +21,6 @@ I am also pursuing a **Frontend Master at Start2Impact University**, where I am 
 </table>
 
 ### Portfolio
-<! -- Check out my portfolio to see some of the projects I’ve worked on: -->
 Check out my portfolio
 - [My Portfolio](https://viorelss.github.io/html-css-s2i/)
 
