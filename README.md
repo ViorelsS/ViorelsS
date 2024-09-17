@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hi there, I'm Viorel! 👋 (@ViorelsS)
 
 ### About Me
@@ -22,3 +24,4 @@ Check out my portfolio to see some of the projects I’ve worked on:
 - [LinkedIn](https://www.linkedin.com/in/viorel-s/)
 - [Get in Touch](https://viorelss.github.io/html-css-s2i/contact)
 
+</div>
