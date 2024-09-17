@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Viorel! 👋 (@ViorelsS)
 
-<!--
-**ViorelsS/ViorelsS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+I am a **Backend and Cloud Developer** with a passion for building scalable and efficient applications. Currently, I’m working at **Dedagroup Business Solutions** as a Backend Developer, continuously expanding my expertise in modern backend technologies and cloud solutions.
 
-Here are some ideas to get you started:
+I am also pursuing a **Frontend Master at Start2Impact University**, where I am focused on **Angular** to enhance my fullstack development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies I Work With
+- **Languages**: JavaScript, Java, C
+- **Frontend**: Angular (in progress)
+- **Backend & Cloud**: Building powerful backend solutions and leveraging cloud technologies
+
+### Portfolio
+Check out my portfolio to see some of the projects I’ve worked on:
+- [My Portfolio](https://viorelss.github.io/html-css-s2i/)
+
+### GitHub Stats
+![Viorel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViorelsS&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViorelsS&layout=compact&theme=radical)
+
+### Contact Me
+- [LinkedIn](https://www.linkedin.com/in/viorel-s/)
+- [Get in Touch](https://viorelss.github.io/html-css-s2i/#contacts)
+
