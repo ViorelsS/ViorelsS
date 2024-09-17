@@ -20,5 +20,5 @@ Check out my portfolio to see some of the projects I’ve worked on:
 
 ### Contact Me
 - [LinkedIn](https://www.linkedin.com/in/viorel-s/)
-- [Get in Touch](https://viorelss.github.io/html-css-s2i/#contacts)
+- [Get in Touch](https://viorelss.github.io/html-css-s2i/contact)
 
