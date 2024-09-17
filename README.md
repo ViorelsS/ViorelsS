@@ -8,9 +8,17 @@ I am a **Backend and Cloud Developer** with a passion for building scalable and 
 I am also pursuing a **Frontend Master at Start2Impact University**, where I am focused on **Angular** to enhance my fullstack development skills.
 
 ### Technologies I Work With
-- **Languages**: JavaScript, Java, C
-- **Frontend**: Angular (in progress)
-- **Backend & Cloud**: Building powerful backend solutions and leveraging cloud technologies
+<table>
+  <tr>
+    <td><strong>Languages</strong>: JavaScript, Java, C</td>
+  </tr>
+  <tr>
+    <td><strong>Frontend</strong>: Angular (in progress)</td>
+  </tr>
+  <tr>
+    <td><strong>Backend & Cloud</strong>: Building powerful backend solutions and leveraging cloud technologies</td>
+  </tr>
+</table>
 
 ### Portfolio
 Check out my portfolio to see some of the projects I’ve worked on:
