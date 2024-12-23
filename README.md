@@ -3,7 +3,7 @@
 # Hi there, I'm Viorel! 👋 (@ViorelsS)
 
 ### About Me
-I am a **Backend and Cloud Developer** with a passion for building scalable and efficient applications. Currently, I’m working at **deda.bit** as a Backend Developer, continuously expanding my expertise in modern backend technologies and cloud solutions.
+I am a **Backend Developer** with a passion for building scalable and efficient applications. Currently, I’m working at **deda.bit** as a Software Architect apprentice, continuously expanding my expertise in modern backend technologies and java based solutions.
 
 I am also pursuing a **Frontend Master at Start2Impact University**, where I am focused on **Angular** to enhance my fullstack development skills.
 
