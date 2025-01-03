@@ -26,7 +26,7 @@ Check out my portfolio
 
 ### GitHub Stats
 ![Viorel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViorelsS&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViorelsS&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViorelsS&layout=compact&theme=transparent)
 
 ### Contact Me
 - [LinkedIn](https://www.linkedin.com/in/viorel-s/)
