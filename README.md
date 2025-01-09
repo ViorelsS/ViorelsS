@@ -16,7 +16,7 @@ I am also pursuing a **Frontend Master at Start2Impact University**, where I am 
     <td><strong>Frontend</strong>: Angular (in progress)</td>
   </tr>
   <tr>
-    <td><strong>Backend & Cloud</strong>: Building powerful backend solutions and leveraging cloud technologies</td>
+    <td><strong>Backend & Cloud</strong>: AWS, Firebase, Supabase, k8s</td>
   </tr>
 </table>
 
