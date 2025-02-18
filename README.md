@@ -13,10 +13,10 @@ I am also pursuing a **Frontend Master at Start2Impact University**, where I am 
     <td><strong>Languages</strong>: JavaScript, Java, C</td>
   </tr>
   <tr>
-    <td><strong>Frontend</strong>: Angular (in progress)</td>
+    <td><strong>Frontend</strong>: Angular, React, Next.js, Flutter</td>
   </tr>
   <tr>
-    <td><strong>Backend & Cloud</strong>: AWS, Firebase, Supabase, k8s</td>
+    <td><strong>Backend & More</strong>: Spring Boot, Firebase, Supabase, k8s, Docker</td>
   </tr>
 </table>
 
