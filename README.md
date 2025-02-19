@@ -17,7 +17,7 @@ In my free time i'm a consultant for the AI startup <strong>by-me.tech</strong>.
     <td><strong>Frontend</strong>: Angular, React, Next.js, Flutter</td>
   </tr>
   <tr>
-    <td><strong>Backend & More</strong>: Spring Boot, Firebase, Supabase, Kubernetes, Docker, </td>
+    <td><strong>Backend & More</strong>: Spring Boot, Firebase, Supabase, Kubernetes, Docker </td>
   </tr>
 </table>
 
