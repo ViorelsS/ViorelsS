@@ -7,6 +7,7 @@ I am a **Backend Developer** with a passion for building scalable and efficient 
 
 I am also pursuing a **Frontend Master at Start2Impact University**, where I am focused on **Angular** to enhance my fullstack development skills.
 
+In my free time i'm a consultant for the AI startup <strong>by-me.tech</strong>.
 ### Technologies I Work With
 <table>
   <tr>
@@ -16,7 +17,7 @@ I am also pursuing a **Frontend Master at Start2Impact University**, where I am 
     <td><strong>Frontend</strong>: Angular, React, Next.js, Flutter</td>
   </tr>
   <tr>
-    <td><strong>Backend & More</strong>: Spring Boot, Firebase, Supabase, k8s, Docker</td>
+    <td><strong>Backend & More</strong>: Spring Boot, Firebase, Supabase, Kubernetes, Docker, </td>
   </tr>
 </table>
 
