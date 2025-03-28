@@ -26,7 +26,7 @@ Check out my portfolio
 [My Portfolio](https://viorelss.github.io/html-css-s2i/)
 
 ### GitHub Stats
-![Viorel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViorelsS&show_icons=true&theme=dark)
+![](https://nirzak-streak-stats.vercel.app/?user=ViorelsS&theme=dark&hide_border=false)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViorelsS&layout=compact&theme=dark)
 
 ### Contact Me
