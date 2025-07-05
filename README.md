@@ -18,6 +18,5 @@ Check out my [portfolio](https://viorelss.github.io/html-css-s2i/)
 
 ### Contact Me
 [LinkedIn](https://www.linkedin.com/in/viorel-s/)
-[Get in Touch](https://viorelss.github.io/html-css-s2i/contact)
 
 </div>
