@@ -3,7 +3,7 @@
 # Hi there, I'm Viorel! 👋
 
 ### About Me
-I'm a software developer with 3+ years of professional experience in fullstack development, specializing in Java and its ecosystem. Skilled in the tech stack, including Node.js, React.js, React Native, Java, C. Have working experience with scripting languages such Bash. Proficient in Linux environment and in applying DevOps best practices to develop scalable and maintainable applications.
+I'm a software developer with 3+ years of professional experience in fullstack development, specializing in Java and its ecosystem. Skilled in the tech stack, including Node.js, React.js, React Native, Java, C. Have working experience with scripting languages such Bash, Python & Powershell. Proficient in Linux environment and in applying DevOps best practices to develop scalable and maintainable applications.
 
 # 💻 Tech Stack:
 
