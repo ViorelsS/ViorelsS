@@ -14,7 +14,6 @@ Check out my [portfolio](https://viorelss.dev/)
 
 ### GitHub Stats
 ![](https://nirzak-streak-stats.vercel.app/?user=ViorelsS&theme=dark&hide_border=false)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViorelsS&layout=compact&theme=dark)
 
 ### Contact Me
 [LinkedIn](https://www.linkedin.com/in/viorel-s/)
